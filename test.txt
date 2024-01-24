@@ -1,0 +1,1 @@
+Plik text.txt zostal edytowany, zeby zrobic nowy push
